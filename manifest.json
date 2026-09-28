@@ -1,0 +1,10 @@
+{
+	"id": "lorem.md",
+	"name": "Lorem.md",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "A small Lorem Ipsum Generator for Obsidian.",
+	"author": "HiddenStorm",
+	"authorUrl": "https://github.com/Hiddenstorm",
+	"isDesktopOnly": false
+}
